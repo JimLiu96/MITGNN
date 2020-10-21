@@ -5,11 +5,10 @@ Repo for paper "Basket Recommendation with Multi-Intent Translation Graph Neural
 If you use the code, please cite our paper
 ```
 @INPROCEEDINGS{9006266,
-  author={Z. {Liu} and L. {Zheng} and J. {Zhang} and J. {Han} and P. S. {Yu}},
-  booktitle={2019 IEEE International Conference on Big Data (Big Data)},
-  title={JSCN: Joint Spectral Convolutional Network for Cross Domain Recommendation},
-  year={2019},
-  pages={850-859},}
+  author={Z. {Liu} and X. {Li} and Z. {Fan} and S. {Guo} and K. {Achan}} and P. S. {Yu}},
+  booktitle={2020 IEEE International Conference on Big Data (Big Data)},
+  title={Basket Recommendation with Multi-Intent Translation Graph Neural Network},
+  year={2020}
 ```
 
 # Usage
