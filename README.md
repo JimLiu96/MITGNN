@@ -13,7 +13,7 @@ If you use the code, please cite our paper
 
 # Usage
 ```
-python MITGNN.py --dataset instacart --regs [1e-3] --alg_type intent_conv --embed_size 64 --layer_size [64,64,64] --lr 0.0001 --save_flag 1 --pretrain 0 --batch_size 4096 --num_intent 5 --epoch 1000
+python MITGNN.py --dataset inscart_3 --regs [1e-3] --alg_type intent_conv --embed_size 64 --layer_size [64,64,64] --lr 0.0001 --save_flag 1 --pretrain 0 --batch_size 4096 --num_intent 5 --epoch 1000
 ```
 ## Environment
 Python = 3.6
