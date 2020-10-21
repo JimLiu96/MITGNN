@@ -12,5 +12,14 @@ If you use the code, please cite our paper
   pages={850-859},}
 ```
 
+# Usage
+```
+python MITGNN.py --dataset instacart --regs [1e-3] --alg_type intent_conv --embed_size 64 --layer_size [64,64,64] --lr 0.0001 --save_flag 1 --pretrain 0 --batch_size 4096 --num_intent 5 --epoch 1000
+```
+## Environment
+Python = 3.6
+Tensorflow = 1.8+
+Numpy, Scipy, scikit-learn should be installed accordingly.
+
 # Acknoledgement
 We reuse some code from our previous paper [basConv](https://github.com/JimLiu96/basConv). You may refer this code for more information on the dataset. 
