@@ -1,5 +1,5 @@
 # Introduction
-Repo for paper "Basket Recommendation with Multi-Intent Translation Graph Neural Network".
+Repo for paper [Basket Recommendation with Multi-Intent Translation Graph Neural Network](https://arxiv.org/abs/2010.11419)
 
 # Citation
 If you use the code, please cite our paper
